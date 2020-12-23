@@ -100,27 +100,27 @@ float alpha = 1.00;
 static const char *colorname[] = {
   /* 8 normal colors */
   [0] = "#292d3e", /* black   */
-  [1] = "#F07178", /* red     */
-  [2] = "#C3E88D", /* green   */
+  [1] = "#f07178", /* red     */
+  [2] = "#c3e88d", /* green   */
   [3] = "#ffcb6b", /* yellow  */
   [4] = "#82aaff", /* blue    */
   [5] = "#c792ea", /* magenta */
-  [6] = "#60ADEC", /* cyan    */
-  [7] = "#ABB2BF", /* white   */
+  [6] = "#89ddff", /* cyan    */
+  [7] = "#d0d0d0", /* white   */
 
   /* 8 bright colors */
-  [8]  = "#959DCB", /* black   */
-  [9]  = "#F07178", /* red     */
-  [10] = "#C3E88D", /* green   */
-  [11] = "#FF5572", /* yellow  */
-  [12] = "#82AAFF", /* blue    */
-  [13] = "#FFCB6B", /* magenta */
-  [14] = "#676E95", /* cyan    */
-  [15] = "#FFFEFE", /* white   */
+  [8]  = "#434758", /* black   */
+  [9]  = "#ff8b92", /* red     */
+  [10] = "#ddffa7", /* green   */
+  [11] = "#ffe585", /* yellow  */
+  [12] = "#9cc4ff", /* blue    */
+  [13] = "#e1acff", /* magenta */
+  [14] = "#a3f7ff", /* cyan    */
+  [15] = "#ffffff", /* white   */
 
   /* special colors */
   [256] = "#292D3E", /* background */
-  [257] = "#BFC7D5", /* foreground */
+  [257] = "#A6ACCD", /* foreground */
 };
 
 /*
